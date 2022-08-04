@@ -1,4 +1,4 @@
-- Basic redux counter.
+- Basic redux counter. ReduxToolkit
 
 # Getting Started with Create React App
 
